@@ -21,7 +21,6 @@ A comprehensive and modular web scraping tool leveraging modern AI models, APIs,
 4. [Usage](#usage)
 5. [Outputs](#outputs)
 6. [Contributing](#contributing)
-7. [License](#license)
 
 ---
 
